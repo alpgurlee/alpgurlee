@@ -1,111 +1,98 @@
-<div align="center">
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=500&lines=Hey%2C+I'm+Alp+Eren!+%F0%9F%91%8B;Flutter+%26+Mobile+Developer;Backend+%26+System+Engineer" alt="Typing SVG" />
+</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Alp%20Eren%20Gürle&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Developer%20%26%20Engineer&descAlignY=52&descSize=18"/>
+<p align="center">
+  <b>Software Developer & Engineer from Turkey 🇹🇷</b>
+</p>
 
-<br/>
+<p align="center">
+  <a href="https://alperengurle.dev"><img src="https://img.shields.io/badge/Portfolio-alperengurle.dev-00C853?style=for-the-badge&logo=safari&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/alpgurlee"><img src="https://img.shields.io/badge/LinkedIn-alpgurlee-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:alpgurlee@gmail.com"><img src="https://img.shields.io/badge/Email-alpgurlee@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Flutter+%26+Mobile+Developer;Backend+%26+System+Engineer;Hardware+%26+Embedded+Systems;Always+Learning+New+Things)](https://git.io/typing-svg)
+---
 
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-alperengurle.dev-00C853?style=for-the-badge&logo=google-chrome&logoColor=white)](https://alperengurle.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-alpgurlee-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alpgurlee)
-[![Email](https://img.shields.io/badge/Email-alpgurlee@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alpgurlee@gmail.com)
-
-</div>
-
-<br/>
-
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="28"> About Me
+## 🧑‍💻 About Me
 
 ```typescript
 const alp = {
-    pronouns: "he" | "him",
     location: "Turkey 🇹🇷",
     education: "Computer Engineering",
     code: ["Dart", "Python", "Swift", "C++", "JavaScript", "Verilog"],
     technologies: {
         mobile: ["Flutter", "iOS (Swift)"],
         backend: ["Node.js", "Python", "Firebase", "Supabase"],
-        hardware: ["Arduino", "FPGA", "Raspberry Pi", "Sensors"],
-        tools: ["Git", "VS Code", "Xcode", "Android Studio"]
+        hardware: ["Arduino", "FPGA", "Raspberry Pi"]
     },
     currentProjects: ["CarbonPro", "TraderAlp"],
     funFact: "I build rockets and design CPUs for fun! 🚀"
 };
 ```
 
-<br/>
+---
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Tech Stack
+## 🛠️ Tech Stack
 
-<div align="center">
-
-### Languages
-<p>
-<img src="https://skillicons.dev/icons?i=dart,python,swift,cpp,js&theme=dark" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 </p>
 
-### Frameworks & Tools
-<p>
-<img src="https://skillicons.dev/icons?i=flutter,firebase,supabase,nodejs,vercel,git&theme=dark" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
-### Hardware & Embedded
-<p>
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FPGA-FF6F00?style=for-the-badge&logoColor=white"/>
 </p>
 
-</div>
+---
 
-<br/>
+## 📊 GitHub Stats
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> GitHub Stats
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=alpgurlee&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=alpgurlee&show_icons=true&theme=default&hide_border=true" width="48%"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=alpgurlee&theme=github-dark-blue&hide_border=true&background=0d1117"/>
+    <img src="https://streak-stats.demolab.com?user=alpgurlee&theme=default&hide_border=true" width="48%"/>
+  </picture>
+</p>
 
-<div align="center">
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=alpgurlee&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&langs_count=8"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alpgurlee&layout=compact&theme=default&hide_border=true&langs_count=8" width="40%"/>
+  </picture>
+</p>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=alpgurlee&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=7EE787&text_color=C9D1D9&ring_color=58A6FF" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=alpgurlee&theme=tokyonight&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=7EE787&currStreakLabel=58A6FF&sideLabels=58A6FF" />
+---
 
-</div>
+## 🤝 Let's Connect
 
-<br/>
+<p align="center">
+  <i>"I'm always open to interesting projects and collaborations!"</i>
+</p>
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alpgurlee&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" width="38%"/>
-</div>
+<p align="center">
+  <a href="https://alperengurle.dev"><img src="https://img.shields.io/badge/🌐_Portfolio-Visit-blue?style=for-the-badge"/></a>
+  <a href="https://www.linkedin.com/in/alpgurlee"><img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge"/></a>
+  <a href="mailto:alpgurlee@gmail.com"><img src="https://img.shields.io/badge/📧_Email-Contact-EA4335?style=for-the-badge"/></a>
+</p>
 
-<br/>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=alpgurlee&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5" />
-
-</div>
-
-<br/>
-
-## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="60"> Let's Connect
-
-<div align="center">
-
-<a href="https://alperengurle.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/alpgurlee" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:alpgurlee@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/alpgurlee" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-
-<br/><br/>
-
-### *"I'm always open to interesting projects and collaborations!"*
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=alpgurlee&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS"/>
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=alpgurlee&color=blue&style=flat-square&label=Profile+Views"/>
+</p>
