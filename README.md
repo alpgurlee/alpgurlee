@@ -20,9 +20,10 @@
 const alp = {
     location: "Turkey 🇹🇷",
     education: "Computer Engineering",
-    code: ["Dart", "Python", "Swift", "C++", "JavaScript", "Verilog"],
+    code: ["Dart", "Swift", "TypeScript", "Python", "Kotlin", "C++"],
     technologies: {
-        mobile: ["Flutter", "iOS (Swift)"],
+        mobile: ["Flutter", "iOS (Swift)", "Kotlin"],
+        frontend: ["React", "Next.js", "Electron"],
         backend: ["Node.js", "Python", "Firebase", "Supabase"],
         hardware: ["Arduino", "FPGA", "Raspberry Pi"]
     },
@@ -35,22 +36,33 @@ const alp = {
 
 ## 🛠️ Tech Stack
 
+### Languages
 <p align="center">
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+</p>
+
+### Frameworks & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
+### Hardware & Embedded
 <p align="center">
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
   <img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
@@ -60,6 +72,12 @@ const alp = {
 ---
 
 ## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://img.shields.io/badge/40%2B-Private%20Repos-FF6B6B?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/22-Public%20Repos-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/60%2B-Total%20Projects-7EE787?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alpgurlee&theme=tokyonight" width="95%"/>
