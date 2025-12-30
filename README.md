@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=500&lines=Hey%2C+I'm+Alp+Eren!+%F0%9F%91%8B;Flutter+%26+Mobile+Developer;Backend+%26+System+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Alp+Eren!+%F0%9F%91%8B;Flutter+%26+Mobile+Developer;Backend+%26+System+Engineer" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -62,21 +62,20 @@ const alp = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=alpgurlee&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=alpgurlee&show_icons=true&theme=default&hide_border=true" width="48%"/>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=alpgurlee&theme=github-dark-blue&hide_border=true&background=0d1117"/>
-    <img src="https://streak-stats.demolab.com?user=alpgurlee&theme=default&hide_border=true" width="48%"/>
-  </picture>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=alpgurlee&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" alt="GitHub Stats"/>
+  <img src="https://streak-stats.demolab.com?user=alpgurlee&theme=tokyonight&hide_border=true&background=0D1117" width="48%" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=alpgurlee&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&langs_count=8"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alpgurlee&layout=compact&theme=default&hide_border=true&langs_count=8" width="40%"/>
-  </picture>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=alpgurlee&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" width="40%" alt="Top Languages"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alpgurlee&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="95%" alt="Contribution Graph"/>
 </p>
 
 ---
