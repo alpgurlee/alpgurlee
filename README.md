@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://alperengurle.dev"><img src="https://img.shields.io/badge/Portfolio-alperengurle.dev-00C853?style=for-the-badge&logo=safari&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/alpgurlee"><img src="https://img.shields.io/badge/LinkedIn-alpgurlee-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:alpgurlee@gmail.com"><img src="https://img.shields.io/badge/Email-alpgurlee@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:alpgurle1@gmail.com"><img src="https://img.shields.io/badge/Email-alpgurle1@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
@@ -108,7 +108,7 @@ const alp = {
 <p align="center">
   <a href="https://alperengurle.dev"><img src="https://img.shields.io/badge/🌐_Portfolio-Visit-blue?style=for-the-badge"/></a>
   <a href="https://www.linkedin.com/in/alpgurlee"><img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge"/></a>
-  <a href="mailto:alpgurlee@gmail.com"><img src="https://img.shields.io/badge/📧_Email-Contact-EA4335?style=for-the-badge"/></a>
+  <a href="mailto:alpgurle1@gmail.com"><img src="https://img.shields.io/badge/📧_Email-Contact-EA4335?style=for-the-badge"/></a>
 </p>
 
 <p align="center">
